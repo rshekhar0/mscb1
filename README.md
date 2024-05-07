@@ -3,12 +3,12 @@
 **List of Practical:**
 
 **1. Blockchain Programming in Python:**
-   a. Create a simple client class to generate private and public keys using Python's RSA algorithm and test it.
-   b. Develop a transaction class to send and receive money and test it.
-   c. Generate multiple transactions and display them.
-   d. Create a blockchain, a genesis block, and execute it.
-   e. Implement a mining function and test it.
-   f. Add blocks to the miner and dump the blockchain.
+   a) Create a simple client class to generate private and public keys using Python's RSA algorithm and test it.
+   b) Develop a transaction class to send and receive money and test it.
+   c) Generate multiple transactions and display them.
+   d) Create a blockchain, a genesis block, and execute it.
+   e) Implement a mining function and test it.
+   f) Add blocks to the miner and dump the blockchain.
 
 **2. Installation and Configuration of Go Ethereum and Mist Browser:**
    Install and configure Go Ethereum and the Mist browser. Develop and test a sample application.
